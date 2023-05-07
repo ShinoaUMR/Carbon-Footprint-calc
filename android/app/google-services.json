@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "758425180751",
+    "project_id": "signin-cf-c979a",
+    "storage_bucket": "signin-cf-c979a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758425180751:android:6f32c9153d627625dae83a",
+        "android_client_info": {
+          "package_name": "com.example.cf_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "758425180751-bquo36tb423599ju8fnh8d7rpq1tue5j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYVeNLz-1XIaZwlt-Udq0XXPiSldGZvQ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "758425180751-bquo36tb423599ju8fnh8d7rpq1tue5j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
